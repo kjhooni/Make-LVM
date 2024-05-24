@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #스크립트 개선 필요사항 및 이슈사항 문의 > kimjh@didim365.com
+#깃을 통해 버전관리
 
 function total(){
 while true; do
